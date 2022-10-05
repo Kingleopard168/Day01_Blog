@@ -1,2 +1,2 @@
-# Day01_Blog
-Day01_Blog
+# Project-blog-simple
+ Project-blog-simple
